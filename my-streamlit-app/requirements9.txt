@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+plotly
+matplotlib.pyplot as plt
+base64
+io
+savetxt
+numpy 
+genfromtxt
+import csv
+tkinter 
+filedialog
+sys
+time
+random
+math
